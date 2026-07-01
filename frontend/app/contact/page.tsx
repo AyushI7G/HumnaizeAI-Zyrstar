@@ -13,7 +13,7 @@ export default function ContactPage() {
       <p className="mt-4 text-mist-500">
         Questions, feedback, or partnership inquiries? Reach us at{" "}
         <a href="mailto:hello@zyrstar.com" className="font-medium text-ink-900">
-          hello@zyrstar.com
+          ayushigupta1187@gmail.com
         </a>
         .
       </p>
