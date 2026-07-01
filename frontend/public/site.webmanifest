@@ -1,0 +1,13 @@
+{
+  "name": "Zyrstar — Humanize AI",
+  "short_name": "Zyrstar",
+  "description": "Humanize AI text and detect AI-generated content with Zyrstar's proprietary engines.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAFAFA",
+  "theme_color": "#0A0A0B",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
