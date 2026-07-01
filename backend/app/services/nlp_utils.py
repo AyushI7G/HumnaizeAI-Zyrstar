@@ -28,7 +28,7 @@ def ensure_nltk_data() -> None:
                     pass
 
 
-ensure_nltk_data()
+#ensure_nltk_data()
 
 SENTENCE_SPLIT_RE = re.compile(r"(?<=[.!?])\s+(?=[A-Z0-9\"'])")
 WORD_RE = re.compile(r"[A-Za-z']+")
